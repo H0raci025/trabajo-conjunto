@@ -1,2 +1,2 @@
-# trabajo-conunto
+# trabajo-conjunto
 tarea de "nexus academy"
